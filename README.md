@@ -171,7 +171,7 @@
     </script>
     <div class="container">
         <section class="profile" aria-label="profil">
-            <img class="profile-photo" src="foto.jpeg" alt="foto profil">
+            <img class="profile-photo" src="/Users/evan/Web1/foto.jpeg" alt="foto profil">
             <div class="profile-desc">
                 <h1>Stevan Christian Rengkeng</h1>
                 <p>Mahasiswa Informatika</p>
